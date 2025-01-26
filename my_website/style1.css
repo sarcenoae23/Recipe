@@ -1,0 +1,309 @@
+.div1 {
+    text-align: center;
+}
+.h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: baskerville;
+}
+.h2 {
+    text-align: right;
+    font-family: cinzel;
+}
+.marquee{
+    font-size: 25px;
+}
+.p1 {
+    text-align: center;
+}
+.p2 {
+    font-size: 12;
+     color:ghostwhite; 
+     font-family: Andalé Mono; 
+     text-align: center;
+}
+.p3 {
+    text-align: right;
+}
+.p4 {
+    font-size:15px; 
+    text-align:left; 
+    font-family:Comic Sans Ms;
+}
+.h3 {
+    font-family:Times New Roman ; 
+    Font-size:30px;
+}
+.LI1 {
+    font-size:20px; 
+    font-family:Georgia;
+}
+.DD1 {
+    font-family: Comic Sans MS;
+}
+.DD2 {
+    font-family: Comic Sans MS;
+}
+.div3 {
+    text-align: right;
+}
+.p5 {
+    font-size: 17px; 
+    font-family:Andalé Mono; 
+    text-align:right;
+}
+.p6 {
+    font-size: 20px;
+}
+.LI2 {
+    font-size:20px; 
+    font-family:Georgia
+}
+.DD3 {
+    font-family: Comic Sans MS;
+}
+.DD4 {
+    font-family: Comic Sans MS;
+}
+.div4 {
+    text-align: left;
+}
+.div5 {
+    text-align: right;
+}
+.p7 {
+    font-size: 17px; 
+    font-family:Andalé Mono; 
+    text-align:right;
+}
+.p8 {
+    font-size: 20px;
+}
+.LI3 {
+    font-size:20px; 
+    font-family:georgia;
+}
+.DD5 {
+    font-family: Comic Sans MS;
+}
+.DD6 {
+    font-family: Comic Sans MS;
+}
+.div6 {
+    text-align: left;
+}
+.div7 {
+    text-align: right;
+}
+.p9 {
+    font-size: 17px; 
+    font-family:Andalé Mono; 
+    text-align:right;
+}
+.p10 {
+    font-size: 20px;
+}
+.LI4 {
+    font-size:20px; 
+    font-family: Georgia
+}
+.DD7 {
+    font-family: Comic Sans MS;
+}
+.DD8 {
+    font-family: Comic Sans MS;
+}
+.div8 {
+    text-align: left;
+}
+.div9 {
+    text-align: right;
+}
+.p11 {
+    font-size: 17px; 
+    font-family:Andalé Mono; 
+    text-align:right;
+}
+.p12 {
+    font-size: 20px;
+}
+.LI5 {
+    font-size:20px; 
+    font-family:Georgia
+}
+.DD9 {
+    font-family: Comic Sans MS;
+}
+.DD10 {
+    font-family: Comic Sans MS;
+}
+.div10 {
+    text-align:left;
+}
+.div11 {
+    text-align: right;
+}
+.p13 {
+    font-size: 17px; 
+    font-family:Andalé Mono; 
+    text-align:right;
+}
+.p14 {
+    font-size: =20px;
+}
+.div12 {
+    text-align:center;
+}
+.p15 {
+    text-align:center; 
+    font-size: 20px;
+}
+.p16 {
+    text-align:center; 
+    font-size: 20px; 
+    font-family: Didot;
+}
+.p17 {
+    text-align:center; 
+    font-size: 20px; 
+    font-family: Didot;
+}
+.h4 {
+    font-size: 10px; 
+    font-family:Georgia; 
+    color:#FFFFFF
+}
+.table{
+    table-layout: auto;
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 30px;
+}
+.table1 th{
+    border-bottom: solid 2px black;
+    padding: 3px;
+}
+.table td{
+    padding: 3px;
+    border:solid 1px gray;
+}
+.table tbody tr:hover{
+    background-color: brown;
+}
+
+body{
+    background: rosybrown ;
+    background-image: url(Services.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color:azure;
+    font-family:Bahnschrift, Arial, Arial;	
+    backdrop-filter: brightness(0.5);
+  }
+
+  .img_sarcenoorbista{
+    margin: 29px 80px 10px 5px ;
+    position: absolute;
+    bottom: 427px;
+      left: 21px;
+      right: 3px;
+  }
+
+  h1 { 
+    margin: 10px 50px 10px 230px ;
+    position: absolute;
+      top: 70px;	
+      color: white;
+  }
+
+  h5{
+    background: lightpink;
+    padding: 10px 10px 0px 10px ;
+    position: absolute;
+    text-align: justify ;
+      top: 150px;
+      left: 680px;
+      right: 150px;
+
+
+    }
+  iframe{
+    position: absolute;
+      left: 150px;
+      top: 50px;
+      bottom:10px;
+      top: 120px;
+  }
+  footer {
+      text-align: justify-all;
+      padding: 0px 610px 50px 516px ;
+      background-color: black;
+      color: black;
+      position: absolute;
+        top: 800px;
+        bottom: 200px;
+        font-size: 10px;
+  }
+  .s1 {
+    background-image:url('Tofu-Sisig-1-A.jpg');
+  }
+  .s2 {
+    background-image:url('beef\ steak-A.jpg');
+  }
+  .s3 {
+    background-image:url('paksiw-A.jpg');
+  }
+  .s4 {
+    background-image:url('ginataang\ til-A.jpg');
+  }
+  .s5 {
+    background-image: url('Bicol\ Express-A.jpg');
+  }
+  .ulam {
+    display: flex;
+    height:20rem;
+    gap:1rem;
+  }
+  .ulam > div {
+    flex: 1;
+    border-radius: 1rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    transition: all .8s cubic-bezier(.25, .4, .45, 1.4);
+  }
+  .ulam > div:hover {
+    flex: 5;
+  }
+  .pd {
+    font-size: 25px;
+    font-family:'Georgia';
+    text-align: center;
+    text-shadow:steelblue 1px 0 10px;
+  }
+  .animate__fadeInLeftBig {
+    text-align: center;
+  }
+.zoom-wrapper {
+    height: 240px;
+    weight:400px;
+    overflow: hidden;
+    border-radius: 10px;
+    text-align: left;
+}
+.zoom-wrapper img{
+    object-fit: cover;
+    transition: transform 0.8s;
+    height: 100%;
+}
+.zoom-wrapper:hover img {
+    transform:scale(1.5);
+}
+.position {
+    margin-left: 20px;
+}
+.p {
+    margin-left: 20px;
+    font-size: 20px;
+}
